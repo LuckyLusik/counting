@@ -1,0 +1,2 @@
+# counting
+Character Counting Assignment
